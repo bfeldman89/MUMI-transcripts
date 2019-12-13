@@ -2,7 +2,7 @@
 
 a repo for creating, revising and sharing the transcripts of MUMI panels and keynotes
 
-## workflow
+## roadmap
 
 - [x] download [videos from facebook](https://www.facebook.com/pg/MUMIConference/videos/)
 - [x] export audio to reduce size
