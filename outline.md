@@ -2,31 +2,31 @@
 
 ### Wednesday, December 4
 
-session|time|title|who
----|---|---|---
-Opening keynote|5:30-7pm||Woodfox and Patrick Alexander
+time|title|who
+---|---|---
+5:30-7pm|Opening keynote|Woodfox and Patrick Alexander
 
 ### Thursday, December 5
 
-session|time|title|who
----|---|---|---
-Welcome Remarks | 8:30-9:00am | | Provost Noel Wilkin and Garrett Felber
-Session 1 | 9-10:30am | Legacies of Slavery | Walter Johnson, Sarah Haley, Dionne Bailey, Max Mishler, Anne Twitty (chair)
-Session 2 | 10:45am-12:15pm | Prison Activism and the Organizing Tradition | Sherie Randolph, Zoharah Simmons, Darren Mack, Orisanmi Burton, Dan Berger, Jessica Wilkerson (chair)
-Art Lunch Session | 12:30pm-1:00pm | Discussion with Art Curators | Shaelyn Smith (APAEP) and Zachary Norman (Moreau College Initiative)
-Session 3 | 1:00-2:30pm | Criminalization | Keeanga-Yamahtta Taylor, Khalil Muhammad, Kelly Lytle Hernández, James Kilgore, Rhonda Williams (chair)
-Public History Presentation | 2:45-4:15pm | Parchman Oral History Project film screening |
-Keynote conversation | 5:00-6:30pm | | Ruth Wilson Gilmore and Robin D. G. Kelley
+time|title|who
+---|---|---
+8:30-9:00am | Welcome Remarks | Provost Noel Wilkin and Garrett Felber
+9-10:30am | Session 1. Legacies of Slavery | Walter Johnson, Sarah Haley, Dionne Bailey, Max Mishler, Anne Twitty (chair)
+10:45am-12:15pm | Session 2. Prison Activism and the Organizing Tradition | Sherie Randolph, Zoharah Simmons, Darren Mack, Orisanmi Burton, Dan Berger, Jessica Wilkerson (chair)
+12:30pm-1:00pm | Art Lunch Session: Discussion with Art Curators | Shaelyn Smith (APAEP) and Zachary Norman (Moreau College Initiative)
+1:00-2:30pm | Session 3. Criminalization | Keeanga-Yamahtta Taylor, Khalil Muhammad, Kelly Lytle Hernández, James Kilgore, Rhonda Williams (chair)
+2:45-4:15pm | Public History Presentation. Parchman Oral History Project film screening |
+5:00-6:30pm | Keynote conversation | Ruth Wilson Gilmore and Robin D. G. Kelley
 
 ### Friday, December 6
 
-session|time|title|who
----|---|---|---
-Session 1 | 9-10:30am | Law and Abolition | Elizabeth Hinton, Amanda Alexander, Reginald Dwayne Betts, Derecka Purnell, William Berry, III (chair)
-Session 2 | 10:45am-12:15pm | The University and the Prison | Michelle Jones, Kathy Boudin, Syrita Steib-Martin, Alice Kim, Jodi Skipper (chair)
-Session 3 | 1:00-2:30pm | Ending Women’s Incarceration | Emily Thuma, Cheryl Wilkins, Mariame Kaba, Andrea James, Maurice Gipson (chair)
-Public History Presentation | 2:45-4:15pm | Community Education Project and Indiana Women’s Prison History Project | Andy Eisen, Elizabeth Nelson, Molly Whitted, and Anastazia with CEP and IWP History Project via Skype
-Keynote conversation | 5:00-6:30pm | | Susan Burton, Kiese Laymon, and Rukia Lumumba
+time|title|who
+---|---|---
+9-10:30am | Session 1. Law and Abolition | Elizabeth Hinton, Amanda Alexander, Reginald Dwayne Betts, Derecka Purnell, William Berry, III (chair)
+10:45am-12:15pm | Session 2. The University and the Prison | Michelle Jones, Kathy Boudin, Syrita Steib-Martin, Alice Kim, Jodi Skipper (chair)
+1:00-2:30pm | Session 3. Ending Women’s Incarceration | Emily Thuma, Cheryl Wilkins, Mariame Kaba, Andrea James, Maurice Gipson (chair)
+2:45-4:15pm | Public History Presentation. Community Education Project and Indiana Women’s Prison History Project | Andy Eisen, Elizabeth Nelson, Molly Whitted, and Anastazia with CEP and IWP History Project via Skype
+5:00-6:30pm | Keynote conversation | Susan Burton, Kiese Laymon, and Rukia Lumumba
 
 ### speakers
 
