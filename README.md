@@ -1,6 +1,6 @@
 # MUMI
 
-This is a reo for creating, revising and sharing the transcripts of MUMI panels and keynotes. 
+This is a repo for creating, revising and sharing the transcripts of MUMI panels and keynotes.
 
 ## roadmap
 
